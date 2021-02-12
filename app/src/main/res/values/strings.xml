@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">APIGuy</string>
+    <string name="please_pick_what_type_of_jokes_you_would_like">Please pick what type of jokes you would like: </string>
+    <string name="any">Any</string>
+    <string name="programming">Programming</string>
+    <string name="misc">Miscellaneous</string>
+    <string name="dark">Dark</string>
+    <string name="pun">Pun</string>
+    <string name="spooky">Spooky</string>
+    <string name="christmas">Christmas</string>
+    <string name="got_jokes">Got jokes?</string>
+    <string name="set_layout">Set layout</string>
+    <string name="why_did_the_chicken_cross_the_road">Why did the chicken cross the road?</string>
+    <string name="to_get_to_the_other_side">To get to the other side</string>
+    <string name="type_pun">Type: Pun</string>
+</resources>
